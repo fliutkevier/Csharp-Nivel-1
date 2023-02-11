@@ -1,0 +1,41 @@
+clear == limpiar la terminal
+
+(para crear un nuevo programa) dotnet new console -o (nombre-del-programa)
+
+(correr un programa) dotnet run
+
+ls == te muestra una lista dentro de la carpeta que estoy
+cd (lo que quiero elegir) == abre la carpeta que está elegida al lado de cd
+
+(cambiar de version de sdk) dotnet new console -o (nombre-del-programa) --framework net5.0
+
+
+CTRL + F2 cambiar el nombre de todas las variables iguales.
+
+CTRL + K + C comenta todo lo que está seleccionado.
+CTRL + K + U descomenta todo lo que está seleccionado.
+
+CTRL + ENTER crea un ENTER en la linea posterior.
+CTRL + SHIFT + ENTER crea un ENTER en la linea anterior.
+
+CTRL + L selecciona toda la linea.
+
+CTRL + C detener la ejecución del programa (en la terminal).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
